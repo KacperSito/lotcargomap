@@ -1,0 +1,1 @@
+const dest = [["WAW","ORD"],["WAW","JFK"],["KRK","ORD"],["ORD","KRK"],["WAW","EWR"],["RZE","EWR"],["EWR","RZE"],["WAW","LAX"],["WAW","MIA"],["WAW","YYZ"],["WAW","DEL"],["WAW","BOM"],["WAW","NRT"],["WAW","PKX"],["WAW","PEK"],["WAW","ICN"],["BUD","ICN"]];
